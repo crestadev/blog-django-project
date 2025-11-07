@@ -10,7 +10,7 @@ User Authentication (Login required for creating, editing, publishing, or deleti
 
 Posts Management
 
-Create, Read, Update, Delete blog posts
+Create, Read, Update, Delete (CRUD) blog posts
 
 Publish drafts into live posts
 
