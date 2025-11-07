@@ -6,7 +6,8 @@
     {{ form.non_field_errors }}
 {% endif %}
 
-<form action="" method="post">
+<form action="" method="post"> <!-- This is a post method -->
+
     {% csrf_token %}
 
     <label for="username" class="form-label">Username</label>
